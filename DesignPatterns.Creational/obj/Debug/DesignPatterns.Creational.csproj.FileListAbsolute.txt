@@ -1,0 +1,7 @@
+C:\Projects\Learn\DesignPatterns\DesignPatterns.Creational\obj\Debug\DesignPatterns.Creational.csprojAssemblyReference.cache
+C:\Projects\Learn\DesignPatterns\DesignPatterns.Creational\obj\Debug\DesignPatterns.Creational.csproj.CoreCompileInputs.cache
+C:\Projects\Learn\DesignPatterns\DesignPatterns.Creational\bin\Debug\DesignPatterns.Creational.exe.config
+C:\Projects\Learn\DesignPatterns\DesignPatterns.Creational\bin\Debug\DesignPatterns.Creational.exe
+C:\Projects\Learn\DesignPatterns\DesignPatterns.Creational\bin\Debug\DesignPatterns.Creational.pdb
+C:\Projects\Learn\DesignPatterns\DesignPatterns.Creational\obj\Debug\DesignPatterns.Creational.exe
+C:\Projects\Learn\DesignPatterns\DesignPatterns.Creational\obj\Debug\DesignPatterns.Creational.pdb

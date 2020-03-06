@@ -1,8 +1,6 @@
-﻿using System.Runtime.InteropServices;
+﻿using System;
 
-using System;
-
-namespace DesignPatterns.Creational.Factory.Player
+namespace DesignPatterns.Creational.PlayerFactory
 {
     public class RandomPlayerFactory
     {

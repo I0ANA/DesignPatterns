@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DesignPatterns.Creational",
+    "\\DesignPatterns.Creational\\AbstractFactory.GUIFactory",
+    "\\DesignPatterns.Creational\\AbstractFactory.GUIFactory\\Mac",
+    "\\DesignPatterns.Creational\\AbstractFactory.GUIFactory\\Win",
+    "\\DesignPatterns.Creational\\Builder.CarBuilder",
+    "\\DesignPatterns.Creational\\FactoryMethod.AirConditionerFactory"
+  ],
+  "SelectedNode": "\\DesignPatterns.Creational\\Builder.CarBuilder\\Application.cs",
+  "PreviewInSolutionExplorer": false
+}

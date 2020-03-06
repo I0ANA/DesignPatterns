@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Creational.Factory.Player
+﻿namespace DesignPatterns.Creational.PlayerFactory
 {
     public class Player
     {

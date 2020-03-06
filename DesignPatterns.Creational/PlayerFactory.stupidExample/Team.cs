@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
-using System.Security.AccessControl;
 
-namespace DesignPatterns.Creational.Factory.Player
+namespace DesignPatterns.Creational.PlayerFactory
 {
     public class Team
     {
@@ -9,9 +8,7 @@ namespace DesignPatterns.Creational.Factory.Player
 
         Team(IPlayerFactory playerFactory)
         {
-
             _playerFactory = playerFactory;
-
         }
 
         public List<Player> GetTeam()
@@ -25,6 +22,5 @@ namespace DesignPatterns.Creational.Factory.Player
 
             return list;
         }
-
     }
 }
